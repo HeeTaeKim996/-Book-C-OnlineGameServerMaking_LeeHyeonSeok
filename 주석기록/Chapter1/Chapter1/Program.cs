@@ -294,6 +294,9 @@ namespace Server
         public void FreeBuffers(SocketAsyncEventArgs args)
         {
             m_freeIndexPool.Push(args.Offset);
+            #region 공부정리
+            // args.Offset : SetBuffer의 (2)값을 SocketAsyncEventArgs(instance).offset 으로 저장
+            #endregion
             args.SetBuffer(null, 0, 0);
         }
     }

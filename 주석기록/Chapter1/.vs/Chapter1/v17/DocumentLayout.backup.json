@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\Chapter1\\",
+  "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\Chapter1.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\chapter1\\chapter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\Chapter1.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\Chapter1.csproj|solutionrelative:chapter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\Chapter1\\Chapter1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Program.cs",
               "RelativeDocumentMoniker": "Chapter1\\Program.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\Chapter1\\Chapter1\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Program.cs",
               "RelativeToolTip": "Chapter1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAlwCYBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T00:03:33.462Z",
               "EditorCaption": ""
