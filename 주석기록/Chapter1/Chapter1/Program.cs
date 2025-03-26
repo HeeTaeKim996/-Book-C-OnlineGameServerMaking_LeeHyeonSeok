@@ -41,7 +41,6 @@ namespace Server
             listener.callback_On_Newclient += on_New_Client;
             listener.Start(host, port, backlog);
 
-            // @@@ 여기부터 교재가 좀 이상한 것 같은데, 여기에 코드를 적는게 맞나?
             receive_Event_Args_Pool = new SocketAsyncEventArgsPool(max_Connections);
             send_Event_Args_Pool = new SocketAsyncEventArgsPool(max_Connections);
 

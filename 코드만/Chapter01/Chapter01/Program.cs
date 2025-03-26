@@ -19,7 +19,35 @@ namespace Server
         
         public void Listen(string host, int port, int backlog)
         {
+            CListener listener = new CListener();
+            listener.callback_on_newClient += On_New_Client;
+            listener.Start(host, port, backlog);
 
+            receive_event_args_pool = new SocketAsyncEventArgsPool(max_connections);
+            send_event_args_pool = new SocketAsyncEventArgs(max_connections);
+
+            for(int i = 0; i < max_connections; i++)
+            {
+                CUserToken token = new CUserToken();
+
+                // receivePool
+                {
+                    SocketAsyncEventArgs arg = new SocketAsyncEventArgs();
+                    arg.Completed += new EventHandler<SocketAsyncEventArgs>(receive_completed);
+                    arg.UserToken = token;
+
+                    receive_event_args_pool.Push(arg);
+                }
+
+                // sendPool
+                {
+                    SocketAsyncEventArgs arg = new SocketAsyncEventArgs();
+                    arg.Completed += new EventHandler<SocketAsyncEventArgs>(send_Completed);
+                    arg.UserToken = token;
+
+                    send_event_args_pool.Push(arg);
+                }
+            }
         }
     }
 
