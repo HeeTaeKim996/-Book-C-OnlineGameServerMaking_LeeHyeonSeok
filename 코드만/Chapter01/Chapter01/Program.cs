@@ -24,7 +24,7 @@ namespace Server
             listener.Start(host, port, backlog);
 
             receive_event_args_pool = new SocketAsyncEventArgsPool(max_connections);
-            send_event_args_pool = new SocketAsyncEventArgs(max_connections);
+            send_event_args_pool = new SocketAsyncEventArgsPool(max_connections);
 
             for(int i = 0; i < max_connections; i++)
             {
@@ -91,7 +91,8 @@ namespace Server
                 accept_args = new SocketAsyncEventArgs();
                 accept_args.Completed += new EventHandler<SocketAsyncEventArgs>(On_Accept_Completed);
 
-
+                Thread listen_thread = new Thread(Do_Listen);
+                listen_thread.Start();
 
                 void On_Accept_Completed(object sender, SocketAsyncEventArgs e)
                 {
@@ -116,7 +117,7 @@ namespace Server
                     flow_control_event.Set();
                 }
 
-                void DoListen()
+                void Do_Listen()
                 {
                     flow_control_event = new AutoResetEvent(false);
 

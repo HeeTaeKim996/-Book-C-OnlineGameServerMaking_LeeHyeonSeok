@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Heetae\\source\\repos\\(책)C#으로온라인게임서버만들기\\주석기록\\Chapter1\\Chapter1\\Chapter1.csproj",
-      "projectName": "Chapter1",
-      "projectPath": "C:\\Users\\Heetae\\source\\repos\\(책)C#으로온라인게임서버만들기\\주석기록\\Chapter1\\Chapter1\\Chapter1.csproj",
+      "projectUniqueName": "C:\\Users\\Heetae\\source\\repos\\(책)C#으로온라인게임서버만들기\\주석기록\\Chapter1\\Chapter1\\FreeNet.csproj",
+      "projectName": "FreeNet",
+      "projectPath": "C:\\Users\\Heetae\\source\\repos\\(책)C#으로온라인게임서버만들기\\주석기록\\Chapter1\\Chapter1\\FreeNet.csproj",
       "packagesPath": "C:\\Users\\Heetae\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Heetae\\source\\repos\\(책)C#으로온라인게임서버만들기\\주석기록\\Chapter1\\Chapter1\\obj\\",
       "projectStyle": "PackageReference",
