@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\smalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\smalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\buffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\buffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\socketasynceventargspool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\socketasynceventargspool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\cnetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\cnetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\cmessageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\cmessageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\ipeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\ipeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\clistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\clistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\freenet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -20,14 +56,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Heetae\\AppData\\Local\\Temp\\_AZTMP0_\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\chapter1\\chapter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF0A3361-4445-4961-BBB7-6DF2ABFC1A31}|Chapter1\\FreeNet.csproj|solutionrelative:chapter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,72 +65,174 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CPacket.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CPacket.cs",
               "RelativeDocumentMoniker": "Chapter1\\CPacket.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CPacket.cs",
               "RelativeToolTip": "Chapter1\\CPacket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:03:41.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Smalls.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Smalls.cs",
-              "RelativeDocumentMoniker": "Chapter1\\Smalls.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Smalls.cs",
-              "RelativeToolTip": "Chapter1\\Smalls.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T12:56:07.868Z",
+              "WhenOpened": "2025-03-27T13:03:41.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "CNetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CNetworkService.cs",
+              "RelativeDocumentMoniker": "Chapter1\\CNetworkService.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CNetworkService.cs",
+              "RelativeToolTip": "Chapter1\\CNetworkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:53:30.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CMessageResolver.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CMessageResolver.cs",
               "RelativeDocumentMoniker": "Chapter1\\CMessageResolver.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CMessageResolver.cs",
               "RelativeToolTip": "Chapter1\\CMessageResolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T12:54:39.555Z"
+              "WhenOpened": "2025-03-27T12:54:39.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FreeNet.csproj",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\FreeNet.csproj",
-              "RelativeDocumentMoniker": "Chapter1\\FreeNet.csproj",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\FreeNet.csproj",
-              "RelativeToolTip": "Chapter1\\FreeNet.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T12:51:04.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CUserToken.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CUserToken.cs",
               "RelativeDocumentMoniker": "Chapter1\\CUserToken.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CUserToken.cs",
               "RelativeToolTip": "Chapter1\\CUserToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T12:51:26.921Z"
+              "WhenOpened": "2025-03-27T12:51:26.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "BufferManager.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\BufferManager.cs",
+              "RelativeDocumentMoniker": "Chapter1\\BufferManager.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\BufferManager.cs",
+              "RelativeToolTip": "Chapter1\\BufferManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:56:12.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter1\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Program.cs",
+              "RelativeToolTip": "Chapter1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:03:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketAsyncEventArgsPool.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\SocketAsyncEventArgsPool.cs",
+              "RelativeDocumentMoniker": "Chapter1\\SocketAsyncEventArgsPool.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\SocketAsyncEventArgsPool.cs",
+              "RelativeToolTip": "Chapter1\\SocketAsyncEventArgsPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:55:24.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CPacketBufferManager.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CPacketBufferManager.cs",
+              "RelativeDocumentMoniker": "Chapter1\\CPacketBufferManager.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CPacketBufferManager.cs",
+              "RelativeToolTip": "Chapter1\\CPacketBufferManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:04:55.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Defines.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Defines.cs",
+              "RelativeDocumentMoniker": "Chapter1\\Defines.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Defines.cs",
+              "RelativeToolTip": "Chapter1\\Defines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:14:50.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Const.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Const.cs",
+              "RelativeDocumentMoniker": "Chapter1\\Const.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Const.cs",
+              "RelativeToolTip": "Chapter1\\Const.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:01:54.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPeer.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\IPeer.cs",
+              "RelativeDocumentMoniker": "Chapter1\\IPeer.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\IPeer.cs",
+              "RelativeToolTip": "Chapter1\\IPeer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:59:17.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CListener.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CListener.cs",
+              "RelativeDocumentMoniker": "Chapter1\\CListener.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CListener.cs",
+              "RelativeToolTip": "Chapter1\\CListener.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwJMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:54:50.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FreeNet.csproj",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\FreeNet.csproj",
+              "RelativeDocumentMoniker": "Chapter1\\FreeNet.csproj",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\FreeNet.csproj",
+              "RelativeToolTip": "Chapter1\\FreeNet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T12:51:04.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\AppData\\Local\\Temp\\_AZTMP0_\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\_AZTMP0_\\Program.cs",
@@ -110,18 +240,6 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\_AZTMP0_\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T08:57:49.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter1\\Program.cs",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Program.cs",
-              "RelativeToolTip": "Chapter1\\Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:03:33.462Z"
             }
           ]
         }
