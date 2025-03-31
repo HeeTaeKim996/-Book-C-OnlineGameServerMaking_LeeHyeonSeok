@@ -80,7 +80,7 @@ namespace FreeNet
         private void Send_Completed(object sender, SocketAsyncEventArgs e)
         {
             CUserToken token = e.UserToken as CUserToken;
-            token.process_send(e);
+            token.Process_send(e);
         }
 
 
@@ -132,7 +132,7 @@ namespace FreeNet
         {
             CUserToken token = receive_args.UserToken as CUserToken;
             token.socket = socket;
-            token.set_event_args(receive_args, send_args);
+            token.Set_args(receive_args, send_args);
 
             bool pending = socket.ReceiveAsync(receive_args);
             if (!pending)
@@ -147,7 +147,7 @@ namespace FreeNet
 
             if (e.BytesTransferred > 0 && e.SocketError == SocketError.Success)
             {
-                token.on_receive(e.Buffer, e.Offset, e.BytesTransferred);
+                token.On_receive(e.Buffer, e.Offset, e.BytesTransferred);
 
                 bool pending = token.socket.ReceiveAsync(e);
                 if (!pending)
@@ -164,15 +164,15 @@ namespace FreeNet
 
         private void close_clientSocket(CUserToken token)
         {
-            token.on_removed();
+            token.On_removed();
 
             if(this.receive_event_args_pool != null)
             {
-                this.receive_event_args_pool.Push(token.receive_event_args);
+                this.receive_event_args_pool.Push(token.receive_arg);
             }
             if(this.send_event_args_pool != null)
             {
-                this.send_event_args_pool.Push(token.send_event_args);
+                this.send_event_args_pool.Push(token.send_arg);
             }
         }
     }

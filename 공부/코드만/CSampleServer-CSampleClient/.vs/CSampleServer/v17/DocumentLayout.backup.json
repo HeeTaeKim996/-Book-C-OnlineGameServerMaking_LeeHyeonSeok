@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\csampleserver-csampleclient\\csampleclient\\cremoteserverpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|solutionrelative:csampleclient\\cremoteserverpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\csampleserver-csampleclient\\csampleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|solutionrelative:csampleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C4E4E54-4A48-40F0-ABDD-A526BF7DC550}|CSampleServer\\CSampleServer.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\csampleserver-csampleclient\\csampleserver\\cgameuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C4E4E54-4A48-40F0-ABDD-A526BF7DC550}|CSampleServer\\CSampleServer.csproj|solutionrelative:csampleserver\\cgameuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\csampleserver-csampleclient\\csampleclient\\cremoteserverpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|solutionrelative:csampleclient\\cremoteserverpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8823FD-707F-4645-8BF6-5802632C25FE}|..\\FreeNet\\Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\freenet\\chapter1\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B8823FD-707F-4645-8BF6-5802632C25FE}|..\\FreeNet\\Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\freenet\\chapter1\\cnetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8823FD-707F-4645-8BF6-5802632C25FE}|..\\FreeNet\\Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\freenet\\chapter1\\defines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8823FD-707F-4645-8BF6-5802632C25FE}|..\\FreeNet\\Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\freenet\\chapter1\\ipeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8823FD-707F-4645-8BF6-5802632C25FE}|..\\FreeNet\\Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\freenet\\chapter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C4E4E54-4A48-40F0-ABDD-A526BF7DC550}|CSampleServer\\CSampleServer.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\csampleserver-csampleclient\\csampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,9 +35,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B8823FD-707F-4645-8BF6-5802632C25FE}|..\\FreeNet\\Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\freenet\\chapter1\\cmessageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8823FD-707F-4645-8BF6-5802632C25FE}|..\\FreeNet\\Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\freenet\\chapter1\\cusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B8823FD-707F-4645-8BF6-5802632C25FE}|..\\FreeNet\\Chapter1\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\freenet\\chapter1\\cconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -33,10 +46,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C4E4E54-4A48-40F0-ABDD-A526BF7DC550}|CSampleServer\\CSampleServer.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\csampleserver-csampleclient\\csampleserver\\csampleserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8C4E4E54-4A48-40F0-ABDD-A526BF7DC550}|CSampleServer\\CSampleServer.csproj|solutionrelative:csampleserver\\csampleserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\csampleserver-csampleclient\\csampleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|solutionrelative:csampleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1DBBFB9-1D5B-4987-A795-6BCB4B28DADF}|CSampleClient\\CSampleClient.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\csampleserver-csampleclient\\csampleclient\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,11 +90,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Defines.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\Defines.cs",
+              "RelativeDocumentMoniker": "..\\FreeNet\\Chapter1\\Defines.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\Defines.cs",
+              "RelativeToolTip": "..\\FreeNet\\Chapter1\\Defines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:18:19.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FreeNet\\Chapter1\\Program.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\Program.cs",
+              "RelativeToolTip": "..\\FreeNet\\Chapter1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:18:17.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPeer.cs",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\IPeer.cs",
+              "RelativeDocumentMoniker": "..\\FreeNet\\Chapter1\\IPeer.cs",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\IPeer.cs",
+              "RelativeToolTip": "..\\FreeNet\\Chapter1\\IPeer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:30:27.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CMessageResolver.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\CMessageResolver.cs",
               "RelativeDocumentMoniker": "..\\FreeNet\\Chapter1\\CMessageResolver.cs",
@@ -93,12 +141,11 @@
               "RelativeToolTip": "..\\FreeNet\\Chapter1\\CMessageResolver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T06:39:48.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T06:39:48.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CConnector.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\CConnector.cs",
               "RelativeDocumentMoniker": "..\\FreeNet\\Chapter1\\CConnector.cs",
@@ -110,32 +157,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CUserToken.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\CUserToken.cs",
               "RelativeDocumentMoniker": "..\\FreeNet\\Chapter1\\CUserToken.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\CUserToken.cs",
               "RelativeToolTip": "..\\FreeNet\\Chapter1\\CUserToken.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAIwEYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T06:08:09.543Z"
+              "WhenOpened": "2025-03-31T06:08:09.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CNetworkService.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\CNetworkService.cs",
               "RelativeDocumentMoniker": "..\\FreeNet\\Chapter1\\CNetworkService.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\FreeNet\\Chapter1\\CNetworkService.cs",
               "RelativeToolTip": "..\\FreeNet\\Chapter1\\CNetworkService.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAIwKQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAEwFMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T05:08:26.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "CSampleClient.csproj",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleClient\\CSampleClient.csproj",
               "RelativeDocumentMoniker": "CSampleClient\\CSampleClient.csproj",
@@ -147,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CPacketBufferManager.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CPacketBufferManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CPacketBufferManager.cs",
@@ -158,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CMessageResolver.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CMessageResolver.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CMessageResolver.cs",
@@ -170,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CNetworkService.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CNetworkService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CNetworkService.cs",
@@ -182,20 +230,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CRemoteServerPeer.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleClient\\CRemoteServerPeer.cs",
               "RelativeDocumentMoniker": "CSampleClient\\CRemoteServerPeer.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleClient\\CRemoteServerPeer.cs",
               "RelativeToolTip": "CSampleClient\\CRemoteServerPeer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T02:45:48.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Protocol.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleClient\\Protocol.cs",
               "RelativeDocumentMoniker": "CSampleClient\\Protocol.cs",
@@ -207,19 +255,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleClient\\Program.cs",
               "RelativeDocumentMoniker": "CSampleClient\\Program.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleClient\\Program.cs",
               "RelativeToolTip": "CSampleClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawCMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:33:12.182Z"
+              "WhenOpened": "2025-03-31T02:33:12.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CListener.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CListener.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CListener.cs",
@@ -231,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "BufferManager.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\BufferManager.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\BufferManager.cs",
@@ -243,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "CConnector.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CConnector.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\CConnector.cs",
@@ -255,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Const.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Const.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Const.cs",
@@ -267,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Defines.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Defines.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\Defines.cs",
@@ -279,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IPeer.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\IPeer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uC8FC\uC11D\uAE30\uB85D\\Chapter1\\Chapter1\\IPeer.cs",
@@ -291,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Protocol.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleServer\\Protocol.cs",
               "RelativeDocumentMoniker": "CSampleServer\\Protocol.cs",
@@ -303,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "CSampleServer.csproj",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleServer\\CSampleServer.csproj",
               "RelativeDocumentMoniker": "CSampleServer\\CSampleServer.csproj",
@@ -321,14 +370,14 @@
               "RelativeDocumentMoniker": "CSampleServer\\CGameUser.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleServer\\CGameUser.cs",
               "RelativeToolTip": "CSampleServer\\CGameUser.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T01:21:10.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uACF5\uBD80\\\uCF54\uB4DC\uB9CC\\CSampleServer-CSampleClient\\CSampleServer\\Program.cs",
               "RelativeDocumentMoniker": "CSampleServer\\Program.cs",
@@ -336,8 +385,7 @@
               "RelativeToolTip": "CSampleServer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T01:08:03.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T01:08:03.518Z"
             }
           ]
         }

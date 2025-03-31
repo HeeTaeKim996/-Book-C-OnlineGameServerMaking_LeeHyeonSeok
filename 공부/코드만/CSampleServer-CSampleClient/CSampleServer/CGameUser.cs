@@ -15,10 +15,10 @@ namespace CSampleServer
         public CGameUser(CUserToken token)
         {
             this.token = token;
-            this.token.set_peer(this);
+            this.token.Set_peer(this);
         }
 
-        void IPeer.on_message(Const<byte[]> buffer)
+        void IPeer.On_message(Const<byte[]> buffer)
         {
             CPacket msg = new CPacket(buffer.Value, this);
             PROTOCOL protocol = (PROTOCOL)msg.pop_protocol_id();
@@ -33,24 +33,24 @@ namespace CSampleServer
 
                         CPacket response = CPacket.create((short)PROTOCOL.CHAT_MSG_ACK);
                         response.push(text);
-                        send(response);
+                        Send(response);
                     }
                     break;
             }
         }
-        public void send(CPacket msg)
+        public void Send(CPacket msg)
         {
-            this.token.send(msg);
+            this.token.Send(msg);
         }
 
-        void IPeer.on_removed()
+        void IPeer.On_removed()
         {
             Console.WriteLine("The client disconnected");
 
             Program.remove_user(this);
         }
 
-        void IPeer.disconnect()
+        void IPeer.Disconnect()
         {
             this.token.socket.Disconnect(false);
             #region 공부정리
@@ -58,6 +58,6 @@ namespace CSampleServer
             #endregion
         }
 
-        void IPeer.process_user_operation(CPacket msg) { }
+        void IPeer.Process_user_operation(CPacket msg) { }
     }
 }

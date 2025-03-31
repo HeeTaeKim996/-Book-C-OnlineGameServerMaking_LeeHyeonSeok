@@ -15,10 +15,10 @@ namespace CSampleClient
         public CRemoteServerPeer(CUserToken token)
         {
             this.token = token;
-            this.token.set_peer(this);
+            this.token.Set_peer(this);
         }
 
-        void IPeer.on_message(Const<byte[]> buffer)
+        void IPeer.On_message(Const<byte[]> buffer)
         {
             CPacket msg = new CPacket(buffer.Value, this);
             PROTOCOL protocol_id = (PROTOCOL)msg.pop_protocol_id();
@@ -33,18 +33,18 @@ namespace CSampleClient
             }
         }
 
-        void IPeer.on_removed()
+        void IPeer.On_removed()
         {
             Console.WriteLine("Server Removed");
         }
-        void IPeer.send(CPacket msg)
+        void IPeer.Send(CPacket msg)
         {
-            this.token.send(msg);
+            this.token.Send(msg);
         }
-        void IPeer.disconnect()
+        void IPeer.Disconnect()
         {
             this.token.socket.Disconnect(false);
         }
-        void IPeer.process_user_operation(CPacket msg) { }
+        void IPeer.Process_user_operation(CPacket msg) { }
     }
 }

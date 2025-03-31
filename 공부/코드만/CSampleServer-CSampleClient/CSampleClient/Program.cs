@@ -30,10 +30,10 @@ namespace CSampleClient
 
                 CPacket msg = CPacket.create((short)PROTOCOL.CHAT_MSG_REQ);
                 msg.push(line);
-                game_servers[0].send(msg);
+                game_servers[0].Send(msg);
             }
 
-            ((CRemoteServerPeer)game_servers[0]).token.disconnect();
+            ((CRemoteServerPeer)game_servers[0]).token.Disconnect();
 
             Console.ReadKey();
         }
