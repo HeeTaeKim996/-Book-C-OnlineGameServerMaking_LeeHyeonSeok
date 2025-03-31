@@ -20,7 +20,7 @@ namespace CSampleClient
 
             connector.connected_callback += on_connected_gameserver;
             IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 7979);
-            connector.connect(endPoint);
+            connector.Connect(endPoint);
 
             while (true)
             {

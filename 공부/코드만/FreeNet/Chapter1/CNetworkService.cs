@@ -22,7 +22,6 @@ namespace FreeNet
         public CNetworkService()
         {
             this.connected_count = 0;
-            this.session_created_callback = null;
         }
 
         public void Initialize()
@@ -87,7 +86,7 @@ namespace FreeNet
         public void Listen(string host, int port, int backLog)
         {
             this.client_listener = new CListener();
-            this.client_listener.callback_On_Newclient += On_new_client;
+            this.client_listener.callback_on_newClient += On_new_client;
             this.client_listener.Start(host, port, backLog);
         }
         private void On_new_client(Socket client_socket, object sender)
@@ -105,10 +104,9 @@ namespace FreeNet
 
 
             CUserToken user_token = receive_args.UserToken as CUserToken;
-            if (this.session_created_callback != null)
-            {
-                this.session_created_callback(user_token);
-            }
+
+            this.session_created_callback?.Invoke(user_token);
+            
         }
 
         public void On_connect_completed(Socket socket, CUserToken token)
