@@ -1,0 +1,10 @@
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe.config
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.pdb
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\FreeNet.dll
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\FreeNet.pdb
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.csproj.AssemblyReference.cache
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWar.2F09E83B.Up2Date
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.exe
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.pdb

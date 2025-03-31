@@ -1,0 +1,6 @@
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\FreeNet\bin\Debug\FreeNet.dll
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\FreeNet\bin\Debug\FreeNet.pdb
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\FreeNet\obj\Debug\FreeNet.csproj.AssemblyReference.cache
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\FreeNet\obj\Debug\FreeNet.csproj.CoreCompileInputs.cache
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\FreeNet\obj\Debug\FreeNet.dll
+C:\Users\Heetae\source\repos\(책)C#으로온라인게임서버만들기\소스코드\소스코드\FreeNet_server_sourcecode\FreeNet\obj\Debug\FreeNet.pdb
