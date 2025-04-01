@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\freenet_server_sourcecode\\freenet\\cmessageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\cmessageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{341BA7A5-4942-48F4-885C-D186EA81BC92}|VirusWarGameServer\\VirusWarGameServer.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\viruswargameserver\\cplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{341BA7A5-4942-48F4-885C-D186EA81BC92}|VirusWarGameServer\\VirusWarGameServer.csproj|solutionrelative:viruswargameserver\\cplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{341BA7A5-4942-48F4-885C-D186EA81BC92}|VirusWarGameServer\\VirusWarGameServer.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\viruswargameserver\\cgameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{341BA7A5-4942-48F4-885C-D186EA81BC92}|VirusWarGameServer\\VirusWarGameServer.csproj|solutionrelative:viruswargameserver\\cgameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}|CSampleClient\\CSampleClient.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\csampleclient\\cremoteserverpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}|CSampleClient\\CSampleClient.csproj|solutionrelative:csampleclient\\cremoteserverpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,12 +11,36 @@
       "RelativeMoniker": "D:0:0:{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}|CSampleClient\\CSampleClient.csproj|solutionrelative:csampleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\cconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\cconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}|CSampleServer\\CSampleServer.csproj|c:\\users\\heetae\\source\\repos\\(\uCC45)c#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\freenet_server_sourcecode\\csampleserver\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}|CSampleServer\\CSampleServer.csproj|solutionrelative:csampleserver\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}|CSampleClient\\CSampleClient.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\csampleclient\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ECD16DA-BD8E-44D3-B7A1-E9F687B9B84E}|CSampleClient\\CSampleClient.csproj|solutionrelative:csampleclient\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\cpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\cpacketbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\cmessageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\cmessageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341BA7A5-4942-48F4-885C-D186EA81BC92}|VirusWarGameServer\\VirusWarGameServer.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\viruswargameserver\\cplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341BA7A5-4942-48F4-885C-D186EA81BC92}|VirusWarGameServer\\VirusWarGameServer.csproj|solutionrelative:viruswargameserver\\cplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341BA7A5-4942-48F4-885C-D186EA81BC92}|VirusWarGameServer\\VirusWarGameServer.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\viruswargameserver\\cgameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341BA7A5-4942-48F4-885C-D186EA81BC92}|VirusWarGameServer\\VirusWarGameServer.csproj|solutionrelative:viruswargameserver\\cgameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\cconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\cconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}|CSampleServer\\CSampleServer.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\csampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\ipeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|solutionrelative:freenet\\ipeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}|CSampleServer\\CSampleServer.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\csampleserver\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1F5AA4B-069D-4E63-BBFC-5FCEDD182C6E}|CSampleServer\\CSampleServer.csproj|solutionrelative:csampleserver\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90786D2B-F7A9-4A90-A073-838EF232BA6A}|FreeNet\\FreeNet.csproj|C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\freenet\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\VirusWarGameServer\\CPlayer.cs",
               "RelativeDocumentMoniker": "VirusWarGameServer\\CPlayer.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CRemoteServerPeer.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\CSampleClient\\CRemoteServerPeer.cs",
               "RelativeDocumentMoniker": "CSampleClient\\CRemoteServerPeer.cs",
@@ -114,11 +114,12 @@
               "RelativeToolTip": "CSampleClient\\CRemoteServerPeer.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T02:33:41.088Z"
+              "WhenOpened": "2025-03-31T02:33:41.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CGameRoom.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\VirusWarGameServer\\CGameRoom.cs",
               "RelativeDocumentMoniker": "VirusWarGameServer\\CGameRoom.cs",
@@ -142,19 +143,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "protocol.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\CSampleServer\\protocol.cs",
               "RelativeDocumentMoniker": "CSampleServer\\protocol.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\CSampleServer\\protocol.cs",
               "RelativeToolTip": "CSampleServer\\protocol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T03:21:30.513Z"
+              "WhenOpened": "2025-03-30T03:21:30.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CGameUser.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\CSampleServer\\CGameUser.cs",
               "RelativeDocumentMoniker": "CSampleServer\\CGameUser.cs",
@@ -166,13 +168,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CPacket.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\FreeNet\\CPacket.cs",
               "RelativeDocumentMoniker": "FreeNet\\CPacket.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\FreeNet\\CPacket.cs",
               "RelativeToolTip": "FreeNet\\CPacket.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T09:03:48.577Z"
             },
@@ -190,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CPacketBufferManager.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\FreeNet\\CPacketBufferManager.cs",
               "RelativeDocumentMoniker": "FreeNet\\CPacketBufferManager.cs",
@@ -198,12 +200,11 @@
               "RelativeToolTip": "FreeNet\\CPacketBufferManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:03:45.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T09:03:45.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IPeer.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\FreeNet\\IPeer.cs",
               "RelativeDocumentMoniker": "FreeNet\\IPeer.cs",
@@ -227,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CUserToken.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\FreeNet\\CUserToken.cs",
               "RelativeDocumentMoniker": "FreeNet\\CUserToken.cs",
@@ -239,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CConnector.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\FreeNet\\CConnector.cs",
               "RelativeDocumentMoniker": "FreeNet\\CConnector.cs",
@@ -263,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CNetworkService.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\FreeNet\\CNetworkService.cs",
               "RelativeDocumentMoniker": "FreeNet\\CNetworkService.cs",
@@ -287,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CMessageResolver.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\FreeNet\\CMessageResolver.cs",
               "RelativeDocumentMoniker": "FreeNet\\CMessageResolver.cs",
@@ -295,12 +296,11 @@
               "RelativeToolTip": "FreeNet\\CMessageResolver.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAkwCkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T12:53:47.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T12:53:47.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\CSampleServer\\Program.cs",
               "RelativeDocumentMoniker": "CSampleServer\\Program.cs",
@@ -312,19 +312,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "protocol.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\CSampleClient\\protocol.cs",
               "RelativeDocumentMoniker": "CSampleClient\\protocol.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\CSampleClient\\protocol.cs",
               "RelativeToolTip": "CSampleClient\\protocol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T09:02:28.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\(\uCC45)C#\uC73C\uB85C\uC628\uB77C\uC778\uAC8C\uC784\uC11C\uBC84\uB9CC\uB4E4\uAE30\\\uC18C\uC2A4\uCF54\uB4DC\\\uC18C\uC2A4\uCF54\uB4DC\\FreeNet_server_sourcecode\\CSampleClient\\Program.cs",
               "RelativeDocumentMoniker": "CSampleClient\\Program.cs",
@@ -332,7 +332,8 @@
               "RelativeToolTip": "CSampleClient\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:02:26.352Z"
+              "WhenOpened": "2025-03-27T09:02:26.352Z",
+              "EditorCaption": ""
             }
           ]
         }

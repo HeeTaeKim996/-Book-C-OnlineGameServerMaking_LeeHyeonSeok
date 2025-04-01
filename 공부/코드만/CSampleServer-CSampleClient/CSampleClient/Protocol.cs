@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GameServer
+﻿namespace GameServer
 {
-    public enum PROTOCOL : short
+    internal enum PROTOCOL : short
     {
         BEGIN = 0,
 
@@ -14,5 +8,5 @@ namespace GameServer
         CHAT_MSG_ACK = 2,
 
         END
-    }
+    }    
 }

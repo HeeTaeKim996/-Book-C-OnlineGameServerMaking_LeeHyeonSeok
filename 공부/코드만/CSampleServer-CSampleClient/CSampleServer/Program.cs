@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Runtime.CompilerServices;
 using FreeNet;
 
 namespace CSampleServer
 {
-    class Program
+    class Program 
     {
         private static List<CGameUser> userList;
 
@@ -13,38 +12,34 @@ namespace CSampleServer
             CPacketBufferManager.Initialize(20_000);
             userList = new List<CGameUser>();
 
-            CNetworkService service = new CNetworkService();
 
-            service.session_created_callback = on_session_created;
+            CNetworkService cNetworkService = new CNetworkService();
+            cNetworkService.session_created_callback += On_session_created;
+            cNetworkService.Initialize();
+            cNetworkService.Listen("0.0.0.0", 7979, 100);
 
-            service.Initialize();
-            service.Listen("0.0.0.0", 7979, 100);
 
-            Console.WriteLine("Started !");
+            Console.WriteLine("Server Started!");
             while (true)
             {
                 Thread.Sleep(1_000);
-                #region 공부정리
-                // ○ 서버 프로그램이 종료되지 않도록, 무한루프
-                #endregion
-            }
-        }
-
-        private static void on_session_created(CUserToken token)
-        {
-            CGameUser user = new CGameUser(token);
-            lock (userList)
-            {
-                userList.Add(user);
             }
         }
 
 
-        public static void remove_user(CGameUser user)
+        private static void On_session_created(CUserToken newToken)
+        {
+            CGameUser newUser = new CGameUser(newToken);
+            lock (userList)
+            {
+                userList.Add(newUser);
+            }
+        }
+        public static void Remove_user(CGameUser removingUser)
         {
             lock (userList)
             {
-                userList.Remove(user);
+                userList.Remove(removingUser);
             }
         }
     }

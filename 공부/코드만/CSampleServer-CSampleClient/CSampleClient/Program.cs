@@ -1,56 +1,53 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net;
+﻿using System.Net.Sockets;
 using FreeNet;
+
 
 namespace CSampleClient
 {
-    using System.Data.SqlTypes;
+    using System.Net;
     using GameServer;
-
     class Program
     {
-        static List<IPeer> game_servers = new List<IPeer>();
+        private static List<CRemoteServerPeer> game_servers;
 
         static void Main(string[] args)
         {
-            CPacketBufferManager.Initialize(2_000);
-            CNetworkService service = new CNetworkService();
-            CConnector connector = new CConnector(service);
+            CPacketBufferManager.Initialize(10);
+            game_servers = new List<CRemoteServerPeer>();
 
-            connector.connected_callback += on_connected_gameserver;
-            IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 7979);
-            connector.Connect(endPoint);
+
+            CNetworkService cNetworkService = new CNetworkService();
+            CConnector cConnector = new CConnector(cNetworkService);
+
+            cConnector.connected_callback += On_connected_gameServer;
+            IPEndPoint remote_endPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 7979);
+            cConnector.Connect(remote_endPoint);
 
             while (true)
             {
                 Console.Write("> ");
-                string line = Console.ReadLine();
-                if (line == "q") break;
+                string send_text = Console.ReadLine();
+
+                if (send_text == "q") break;
 
                 CPacket msg = CPacket.Create((short)PROTOCOL.CHAT_MSG_REQ);
-                msg.Push(line);
+                msg.Push(send_text);
                 game_servers[0].Send(msg);
             }
 
-            ((CRemoteServerPeer)game_servers[0]).token.Disconnect();
+            game_servers[0].token.Disconnect();
 
-            Console.ReadKey();
+            Console.ReadKey(); // 이게 있는 이유는 모르겠다. 추후 필요한 건가
         }
 
-        private static void on_connected_gameserver(CUserToken server_token)
+        private static void On_connected_gameServer(CUserToken newToken)
         {
+            CRemoteServerPeer newServer = new CRemoteServerPeer(newToken);
             lock (game_servers)
             {
-                IPeer server = new CRemoteServerPeer(server_token);
-                game_servers.Add(server);
-                #region 공부정리 
-                // ○ 매개변수 server_token은 위 Main의 CConnector 생성자에서 생성된 server_token이다. CSampleServer에서는 CListener를 통해 접속시도한 클라이언트 소켓에 대응되어 만들어진 e.AcceptSocket을 리스트로 관리하는 반면에,
-                //   클라이언트는 CConnector생성자에서 생성된 토큰을, ConnectAsync하고, 비동기가 완료된 이 토큰을 game_servers 리스트에서 관리한다
-                #endregion
-                Console.WriteLine("Connected!");
+                game_servers.Add(newServer);
             }
+            Console.WriteLine("서버와 연결 성공했습니다");
         }
-
     }
 }

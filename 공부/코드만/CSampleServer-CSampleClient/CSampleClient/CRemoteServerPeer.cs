@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using FreeNet;
+﻿using FreeNet;
 
 namespace CSampleClient
 {
-    using System.Data.SqlTypes;
     using GameServer;
     internal class CRemoteServerPeer : IPeer
     {
@@ -18,33 +12,37 @@ namespace CSampleClient
             this.token.Set_peer(this);
         }
 
-        void IPeer.On_message(Const<byte[]> buffer)
+        void IPeer.On_message(FreeNet.Const<byte[]> buffer)
         {
             CPacket msg = new CPacket(buffer.Value, this);
-            PROTOCOL protocol_id = (PROTOCOL)msg.Pop_protocol_id();
-            switch (protocol_id)
+            PROTOCOL protocol = (PROTOCOL)msg.Pop_protocol_id();
+
+            switch (protocol)
             {
                 case PROTOCOL.CHAT_MSG_ACK:
                     {
-                        string text = msg.Pop_string();
-                        Console.WriteLine($"text {text}");
+                        string recv_text = msg.Pop_string();
+                        Console.WriteLine($"Text : {recv_text}");
                     }
                     break;
             }
         }
 
-        void IPeer.On_removed()
-        {
-            Console.WriteLine("Server Removed");
-        }
-        void IPeer.Send(CPacket msg)
+        public void Send(CPacket msg)
         {
             this.token.Send(msg);
         }
+
+        void IPeer.On_removed()
+        {
+            Console.WriteLine("서버와 연결이 해제됐습니다");
+        }
+
         void IPeer.Disconnect()
         {
             this.token.socket.Disconnect(false);
         }
-        void IPeer.Process_user_operation(CPacket msg) { }
+
+        void IPeer.Process_user_operation(CPacket msg){ }
     }
 }
