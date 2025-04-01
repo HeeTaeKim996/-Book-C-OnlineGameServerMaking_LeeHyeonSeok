@@ -72,7 +72,9 @@ namespace FreeNet
 
         private bool read_until(byte[] buffer, ref int src_position, int offset, int transffered)
         {
-            if (this.current_position >= offset + transffered) return false;
+            if (src_position >= offset + transffered) return false;
+            // @@@@@@@@@@@@@@@@@@@@@ ????????????????????  위 if return false 코드가 이해가 안된다. offset, src_position은 위치 를 의미한다. transffered, current_position, 은 (읽어드려야할, 현재까지 읽은) 메세지의 크기 를 의미한다. 따라서 위 비교는 의미가 없다. 
+            //  => 아마 작성자가 current_position와 src_position을 착각한 듯 싶다. 따라서 좌항을 src_position으로 수정하였다
 
             int copy_size = position_to_read - this.current_position;
 

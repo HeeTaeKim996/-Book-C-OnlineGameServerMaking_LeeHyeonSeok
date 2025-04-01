@@ -21,18 +21,18 @@ namespace CSampleServer
         void IPeer.On_message(Const<byte[]> buffer)
         {
             CPacket msg = new CPacket(buffer.Value, this);
-            PROTOCOL protocol = (PROTOCOL)msg.pop_protocol_id();
+            PROTOCOL protocol = (PROTOCOL)msg.Pop_protocol_id();
             Console.WriteLine("------------------------------------------------");
             Console.WriteLine("Protocol id : " + protocol);
             switch (protocol)
             {
                 case PROTOCOL.CHAT_MSG_REQ:
                     {
-                        string text = msg.pop_string();
+                        string text = msg.Pop_string();
                         Console.WriteLine($"text {text}");
 
-                        CPacket response = CPacket.create((short)PROTOCOL.CHAT_MSG_ACK);
-                        response.push(text);
+                        CPacket response = CPacket.Create((short)PROTOCOL.CHAT_MSG_ACK);
+                        response.Push(text);
                         Send(response);
                     }
                     break;

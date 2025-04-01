@@ -20,6 +20,10 @@ namespace FreeNet
         }
 
         public static void destroy(CPacket packet)
+        // ○ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@?????????????????  destroy 매서드 누락 의심
+        //  - 채팅의 경우, destroy를 한번도 사용하지 않음. 그렇다면 채팅을 계속 하면, CPacketBufferManager에서 allocate로 풀에 CPacket을 추가하는데, 그렇다면 풀을 사용하는 의미도 없고, 메모리누락 발생. 
+        //  - war virus game에서는 2번 사용하긴 하던데, 언제 사용하는 코드인지 아직 파악을 못함. 추후 누락 여부 재확인 및 처리 필요 예상
+
         {
             CPacketBufferManager.Push(packet);
         }
@@ -102,6 +106,10 @@ namespace FreeNet
         public string pop_string()
         {
             Int16 len = BitConverter.ToInt16(this.buffer, this.position);
+            #region 공부정리
+            // ※ BitConverter.ToIn16은 길이를 지정할 필요가 없는게, 항상 Int16을 바이트로 변환하며, Int16은 언제나 2비트이기 때문
+            //  - 같은 내용으로, pop_byte,Int16,Int32에서는 길이를 담은 바이트가 없지만, pop_string에서만 길이를 나타내는 short가 앞에 오는 이유도, Encoding.UTF8.GetString은 char[]를 byte[] 로 담은 것이기 때문에, 길이를 알 수 없기 때문
+            #endregion
             this.position += sizeof(Int16);
 
             string data = Encoding.UTF8.GetString(this.buffer, this.position, len);

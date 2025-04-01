@@ -1,63 +1,55 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Net.Sockets;
+
 
 namespace FreeNet
 {
     internal class BufferManager
     {
-        int m_numBytes;
-        byte[] m_buffer;
-        Stack<int> m_freeIndexPool;
-        int m_currentIndex;
-        int m_bufferSize;
+        private byte[] total_buffer;
+        private int total_size;
+        private int buffer_size;
+        private Stack<int> buffer_index_pool;
+        private int current_index;
 
-        public BufferManager(int totalBytes, int bufferSize)
+        public BufferManager(int total_size, int buffer_size)
         {
-            m_numBytes = totalBytes;
-            m_currentIndex = 0;
-            m_bufferSize = bufferSize;
-            m_freeIndexPool = new Stack<int>();
+            this.total_size = total_size;
+            this.buffer_size = buffer_size;
+
+            this.buffer_index_pool = new Stack<int>();
+            this.current_index = 0;
         }
+
         public void InitBuffer()
         {
-            m_buffer = new byte[m_numBytes];
+            this.total_buffer = new byte[this.total_size];
         }
+
         public bool SetBuffer(SocketAsyncEventArgs args)
         {
-            if (m_freeIndexPool.Count > 0)
+            if (this.buffer_index_pool.Count > 0)
             {
-                args.SetBuffer(m_buffer, m_freeIndexPool.Pop(), m_bufferSize);
-                #region 공부정리
-                // ○ SocketAsyncEventArgs(instance).SetBuffer 
-                //  - 해당 인스턴스가 사용할 버퍼의 위치와 크기를 지정함. SocketAsyncEventArgs(instance)는 SetBuffer를 통해 할당받은 byte[]를 기반으로, 통신을 한다 함(From 지피티)
-                //  - (1) : 참조되는 byte[]
-                //  - (2) : 버퍼의 시작 인덱스
-                //  - (3) : 사용할 버퍼의 크기
-                //   => SocketAsynEventArgs Pool 이 공통의 m_buffer를 나눠 사용하는 구조이기 때문에, (2)항을 m_freeIndexPool.Pop()으로, (3)항을 m_bufferSize로 사용
-                //      => 처음 시작하면, m_freeIndexPool.Count == 0 이고, else{ 구문이 작동. 사용을 다한 SocketasyncEventArgs는 하단의 FreeBuffers매서드를 통해 m_freeIndexPool로 푸시되어, 위 if(m_freeIndexPool.Count에서 사용됨) 
-                #endregion
+                args.SetBuffer(total_buffer, buffer_index_pool.Pop(), buffer_size);
             }
             else
             {
-                if ((m_numBytes - m_bufferSize) < m_currentIndex)
+                if (total_size >= current_index + buffer_size)
+                {
+                    args.SetBuffer(total_buffer, current_index, buffer_size);
+                    this.current_index += buffer_size;
+                }
+                else
                 {
                     return false;
                 }
-                args.SetBuffer(m_buffer, m_currentIndex, m_bufferSize);
-                m_currentIndex += m_bufferSize;
             }
+
             return true;
         }
-        public void FreeBuffers(SocketAsyncEventArgs args)
+
+        public void FreeBuffer(SocketAsyncEventArgs args)
         {
-            m_freeIndexPool.Push(args.Offset);
-            #region 공부정리
-            // args.Offset : SetBuffer의 (2)값을 SocketAsyncEventArgs(instance).offset 으로 저장
-            #endregion
+            this.buffer_index_pool.Push(args.Offset);
             args.SetBuffer(null, 0, 0);
         }
     }

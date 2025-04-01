@@ -28,8 +28,8 @@ namespace CSampleClient
                 string line = Console.ReadLine();
                 if (line == "q") break;
 
-                CPacket msg = CPacket.create((short)PROTOCOL.CHAT_MSG_REQ);
-                msg.push(line);
+                CPacket msg = CPacket.Create((short)PROTOCOL.CHAT_MSG_REQ);
+                msg.Push(line);
                 game_servers[0].Send(msg);
             }
 

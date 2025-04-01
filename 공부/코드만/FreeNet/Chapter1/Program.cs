@@ -1,10 +1,5 @@
 ﻿
 
-
-using System.Net;
-using System.Net.Sockets;
-
-
 namespace FreeNet
 {
     class Program
@@ -12,13 +7,6 @@ namespace FreeNet
         static void Main(string[] args)
         {
 
-
         }
-
     }
 }
-
-
-
-
-

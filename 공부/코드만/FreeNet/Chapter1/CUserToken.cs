@@ -5,8 +5,8 @@ namespace FreeNet
     public class CUserToken
     {
         public Socket socket { get; set; }
-        public SocketAsyncEventArgs receive_arg { get; private set; }
-        public SocketAsyncEventArgs send_arg { get; private set; }
+        public SocketAsyncEventArgs receive_args { get; private set; }
+        public SocketAsyncEventArgs send_args { get; private set; }
         private CMessageResolver message_resolver;
         private IPeer peer;
 
@@ -27,13 +27,13 @@ namespace FreeNet
         }
         public void Set_args(SocketAsyncEventArgs receive_arg, SocketAsyncEventArgs send_arg)
         {
-            this.receive_arg = receive_arg;
-            this.send_arg = send_arg;
+            this.receive_args = receive_arg;
+            this.send_args = send_arg;
         }
 
         public void On_receive(byte[] buffer, int offset, int transferred)
         {
-            this.message_resolver.on_receive(buffer, offset, transferred, On_message);
+            this.message_resolver.On_receive(buffer, offset, transferred, On_message);
         }
         private void On_message(Const<Byte[]> buffer)
         {
@@ -43,7 +43,7 @@ namespace FreeNet
         public void Send(CPacket msg)
         {
             CPacket clone = new CPacket();
-            msg.copy_to(clone);
+            msg.Copy_to(clone);
 
             lock (cs_sending_queue)
             {
@@ -54,8 +54,8 @@ namespace FreeNet
                 }
                 else
                 {
-                    Console.WriteLine("sending_queue가 아직 비지 않았습니다. 메세지를 Enqueue 합니다");
                     this.sending_queue.Enqueue(clone);
+                    Console.WriteLine("sending_queue가 아직 비지 않았습니다. 메세지를 Enqueue 합니다");
                 }
             }
         }
@@ -65,15 +65,15 @@ namespace FreeNet
             lock (cs_sending_queue)
             {
                 CPacket msg = sending_queue.Peek();
-                msg.record_size();
+                msg.Record_size();
 
-                this.send_arg.SetBuffer(this.send_arg.Offset, msg.position);
-                Buffer.BlockCopy(msg.buffer, 0, this.send_arg.Buffer, this.send_arg.Offset, msg.position);
+                this.send_args.SetBuffer(this.send_args.Offset, msg.position);
+                Buffer.BlockCopy(msg.buffer, 0, this.send_args.Buffer, this.send_args.Offset, msg.position);
 
-                bool pending = socket.SendAsync(send_arg);
+                bool pending = socket.SendAsync(send_args);
                 if (!pending)
                 {
-                    Process_send(send_arg);
+                    Process_send(send_args);
                 }
             }
         }
@@ -140,8 +140,8 @@ namespace FreeNet
         {
             Timer keepAlive = new Timer((object e) =>
             {
-                CPacket msg = CPacket.create(0);
-                msg.push(0);
+                CPacket msg = CPacket.Create(0);
+                msg.Push(0);
                 Send(msg);
             }, null, 0, 3_000);
         }

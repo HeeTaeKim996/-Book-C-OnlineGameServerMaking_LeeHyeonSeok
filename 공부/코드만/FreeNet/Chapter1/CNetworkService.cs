@@ -92,21 +92,15 @@ namespace FreeNet
         private void On_new_client(Socket client_socket, object sender)
         {
             Interlocked.Increment(ref this.connected_count);
-
             Console.WriteLine($"{Thread.CurrentThread.ManagedThreadId} 클라이언트 연결 핸들 : {client_socket.Handle}. 연결된 총 클라이언트 : {this.connected_count}");
-
 
             SocketAsyncEventArgs receive_args = this.receive_event_args_pool.Pop();
             SocketAsyncEventArgs send_args = this.send_event_args_pool.Pop();
-
             Begin_receive(client_socket, receive_args, send_args);
 
 
-
             CUserToken user_token = receive_args.UserToken as CUserToken;
-
             this.session_created_callback?.Invoke(user_token);
-            
         }
 
         public void On_connect_completed(Socket socket, CUserToken token)
@@ -166,11 +160,11 @@ namespace FreeNet
 
             if(this.receive_event_args_pool != null)
             {
-                this.receive_event_args_pool.Push(token.receive_arg);
+                this.receive_event_args_pool.Push(token.receive_args);
             }
             if(this.send_event_args_pool != null)
             {
-                this.send_event_args_pool.Push(token.send_arg);
+                this.send_event_args_pool.Push(token.send_args);
             }
         }
     }

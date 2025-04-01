@@ -21,12 +21,12 @@ namespace CSampleClient
         void IPeer.On_message(Const<byte[]> buffer)
         {
             CPacket msg = new CPacket(buffer.Value, this);
-            PROTOCOL protocol_id = (PROTOCOL)msg.pop_protocol_id();
+            PROTOCOL protocol_id = (PROTOCOL)msg.Pop_protocol_id();
             switch (protocol_id)
             {
                 case PROTOCOL.CHAT_MSG_ACK:
                     {
-                        string text = msg.pop_string();
+                        string text = msg.Pop_string();
                         Console.WriteLine($"text {text}");
                     }
                     break;

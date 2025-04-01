@@ -47,17 +47,16 @@ namespace FreeNet
 
         public void on_accept_completed(object sender, SocketAsyncEventArgs e)
         {
-            if(e.SocketError == SocketError.Success)
-            {
-                this.autoResetEvent.Set();
+            this.autoResetEvent.Set();
 
+            if (e.SocketError == SocketError.Success)
+            {
                 Socket accept_socket = e.AcceptSocket;
                 this.callback_on_newClient?.Invoke(accept_socket, e.UserToken);            
             }
             else
             {
                 Console.WriteLine("Failed to Accept Connecting Client");
-                this.autoResetEvent.Set();
             }
         }
         

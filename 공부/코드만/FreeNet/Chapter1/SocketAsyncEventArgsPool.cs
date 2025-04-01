@@ -1,44 +1,39 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Net.Sockets;
+
 
 namespace FreeNet
 {
     internal class SocketAsyncEventArgsPool
     {
-        Stack<SocketAsyncEventArgs> m_Pool;
-
-        public SocketAsyncEventArgsPool(int capacity)
+        private Stack<SocketAsyncEventArgs> args_pool;
+        
+        public SocketAsyncEventArgsPool(int pool_capacity)
         {
-            m_Pool = new Stack<SocketAsyncEventArgs>(capacity);
-        }
-
-        public void Push(SocketAsyncEventArgs item)
-        {
-            if (item == null)
-            {
-                throw new ArgumentNullException("Items added to a SocketAsyncEventArgsPool cannot be null");
-            }
-            lock (m_Pool)
-            {
-                m_Pool.Push(item);
-            }
+            args_pool = new Stack<SocketAsyncEventArgs>(pool_capacity);
         }
         public SocketAsyncEventArgs Pop()
         {
-            lock (m_Pool)
+            lock (args_pool)
             {
-                return m_Pool.Pop();
+                return args_pool.Pop();
+            }
+        }
+        public void Push(SocketAsyncEventArgs args)
+        {
+            if(args == null)
+            {
+                throw new ArgumentNullException("SokcetAsyncEventArgsPool : args_pool 에 Push 하는 args는 null 일 수 없습니다");
+            }
+            lock (args_pool)
+            {
+                args_pool.Push(args);
             }
         }
         public int Count
         {
             get
             {
-                return m_Pool.Count;
+                return args_pool.Count;
             }
         }
     }

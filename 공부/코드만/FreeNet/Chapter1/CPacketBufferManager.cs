@@ -1,51 +1,51 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace FreeNet
 {
     public class CPacketBufferManager
     {
-        private static object cs_buffer = new object();
-        private static Stack<CPacket> pool;
         private static int pool_capacity;
+        private static Stack<CPacket> cPacket_pool;
+        private static object cs_cPacket_pool;
 
         public static void Initialize(int capacity)
         {
-            pool = new Stack<CPacket>();
             pool_capacity = capacity;
-            allocate();
+            cPacket_pool = new Stack<CPacket>(pool_capacity);
+            cs_cPacket_pool = new object();
+            Allocate();
         }
 
-        private static void allocate()
+        private static void Allocate()
         {
-            for(int i = 0; i < pool_capacity; i++)
+            lock (cs_cPacket_pool)
             {
-                pool.Push(new CPacket());
+                for (int i = 0; i < pool_capacity; i++)
+                {
+                    cPacket_pool.Push(new CPacket());
+                }
             }
         }
 
-        public static CPacket pop()
+        public static CPacket Pop()
         {
-            lock (cs_buffer)
+            lock (cs_cPacket_pool)
             {
-                if(pool.Count <= 0)
+                if (cPacket_pool.Count <= 0)
                 {
-                    Console.WriteLine("ReAllocate.");
-                    allocate();
+                    Console.WriteLine("CPacketBufferManager : CPacketBufferManager.Pop()을 시행했지만, cPacket_pool.Count <= 0 이라, cPacket을 재생성함. 초기화 때 더 많은 capacity 필요 예상됨");
+                    Allocate();
                 }
 
-                return pool.Pop();
+                return cPacket_pool.Pop();
             }
         }
-
+        
         public static void Push(CPacket packet)
         {
-            lock (cs_buffer)
+            lock (cs_cPacket_pool)
             {
-                pool.Push(packet);
+                cPacket_pool.Push(packet);
             }
         }
     }
